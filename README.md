@@ -30,8 +30,6 @@ It allows you to:
 - View the model’s confidence score  
 - Enjoy a clean, minimal interface
 
-👉 Try it here: [YOUR STREAMLIT APP LINK](YOUR_STREAMLIT_APP_LINK_HERE)
-
 ---
 
 ## 🧠 Model Highlights
@@ -47,5 +45,3 @@ It allows you to:
 
 This project demonstrates the full deep learning pipeline —  
 from training a CNN on image data, to improving accuracy with transfer learning, and finally deploying it as an interactive web app.
-
----
